@@ -1,0 +1,2 @@
+#ifndef CIRCULABUFFER_H
+#define CIRCULABUFFER_H
