@@ -3,6 +3,6 @@
 int main()
 {
     printf("CBM\n");
-    printf("Feature branch update\n");
+    printf("new CBM\n");
     return 0;
 }
